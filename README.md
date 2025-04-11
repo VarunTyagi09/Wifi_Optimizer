@@ -20,3 +20,7 @@ Manually sets the MTU for the network adapter to 1400. This value might be tweak
 Admin Rights:
 The script must be run as Administrator for the changes to take effect.
 
+4. How to run?
+a. Download the file.
+b. Run the .bat file only. (Run as Admin)
+c. Reload your computer for script to take effect. 
